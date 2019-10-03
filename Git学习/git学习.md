@@ -57,6 +57,8 @@
 
         
 ## 常用的操作
+* 创建git 管理
+        git init
 * 提交并入当前分支
 
         git add yourfilename
